@@ -15,6 +15,4 @@
 - **Web Projects** – Corporate & dynamic websites  
 - **Android & API Integrations** – Payment & calendar systems
 
-## 📫 Contact
-- LinkedIn: (link)
-- Email: (mail)
+
