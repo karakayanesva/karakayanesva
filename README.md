@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Neşva 👋
 
-<!--
-**karakayanesva/karakayanesva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+🎯 Web & Mobile Application Development  
+☁️ Azure-based systems & API integrations  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Frontend: React, Next.js, HTML, CSS, JavaScript
+- Backend: .NET, C#, Python
+- Database: SQL, PostgreSQL, NoSQL
+- Tools: Git, Azure DevOps, Postman, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **QPFace** – AI-powered personality analysis mobile app  
+- **Web Projects** – Corporate & dynamic websites  
+- **Android & API Integrations** – Payment & calendar systems
+
+## 📫 Contact
+- LinkedIn: (link)
+- Email: (mail)
